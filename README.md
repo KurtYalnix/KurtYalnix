@@ -1,16 +1,16 @@
-### Hi there 👋
-
+Software IT Developer
 
 - Backend
     - PHP (Poco)
     - Nodejs (3 Años)
         - Nativo
-            -Typescrypt (Inicio: Junio-2019)
-            -Javascript (Inicio: 2018)
+            -Typescrypt (Junio-2019)
+            -Javascript (2018)
         - Frameworks
-            - Svelte (Inicio: Nov-2020)
-        - SQL (Inicio: Sep-2020)
-        - Java (Inicio: Sep-2020)
+            - Svelte (Nov-2020)
+        - SQL (Sep-2020)
+        - Java (Sep-2020)
+        - C# (2015)
 - WEB (Completo)
     - HTML
     - JavaScript
